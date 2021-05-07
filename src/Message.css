@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+.message{
+    padding: 5px;
+    margin: 10px;
+    width: fit-content;
+    border-radius: 10px;
+    font-family: 'Lora', serif;
+}
+.message_user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+.message_usercard{
+    background-color: #0099ff !important;
+}
+.guest_usercard{
+    background-color: #cccccc !important; 
+}
